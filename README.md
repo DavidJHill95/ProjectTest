@@ -1,7 +1,7 @@
 ## ProjectTest
 
 
-![alt text](https://goo.gl/images/DLMLhz)
+![alt text](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 
 
 
